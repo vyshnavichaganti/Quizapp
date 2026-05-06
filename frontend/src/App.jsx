@@ -3,7 +3,7 @@ import axios from 'axios'
 import { BookOpen, Zap, Download, RotateCcw } from 'lucide-react'
 import ExamConfig from './components/ExamConfig'
 import UploadPanel from './components/UploadPanel'
-import ResultsView from './components/ResultsView'
+import ResultsView from './components/temp'
 
 const API = 'http://localhost:8000'
 

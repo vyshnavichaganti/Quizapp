@@ -5,7 +5,7 @@ import ExamConfig from './components/ExamConfig'
 import UploadPanel from './components/UploadPanel'
 import ResultsView from './components/ResultsView'
 
-const API = 'http://localhost:8000'
+const API ='/api'
 
 export default function App() {
   const [text, setText] = useState('')

@@ -4,8 +4,7 @@ import { BookOpen, Zap, Download, RotateCcw } from 'lucide-react'
 import ExamConfig from './components/ExamConfig'
 import UploadPanel from './components/UploadPanel'
 import ResultsView from './components/ResultsView'
-
-const API ='/api'
+const API = 'http://localhost:8000'
 
 export default function App() {
   const [text, setText] = useState('')

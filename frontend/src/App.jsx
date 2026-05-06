@@ -5,7 +5,7 @@ import ExamConfig from './components/ExamConfig'
 import UploadPanel from './components/UploadPanel'
 import ResultsView from './components/ResultsView'
 
-const API = https://quizapp-porn.onrender.com
+const API = 'https://quizapp-porn.onrender.com'
 
 export default function App() {
   const [text, setText] = useState('')

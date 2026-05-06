@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import axios from 'axios'
 import { BookOpen, Zap, Download, RotateCcw } from 'lucide-react'
-import ExamConfig from './components/ExamConfig'
-import UploadPanel from './components/UploadPanel'
-import ResultsView from './components/ResultsView'
+import ExamConfig from './components/Examconfig'
+import UploadPanel from './components/Uploadpanel'
+import ResultsView from './components/Resultsview'
 const API = 'http://localhost:8000'
 
 export default function App() {

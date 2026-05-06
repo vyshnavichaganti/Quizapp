@@ -1,4 +1,4 @@
-import QuestionCard from './QuestionCard'
+import QuestionCard from './Questioncard'
 
 // Replace the MCQ map with:
 {exam.mcqs.map((q, i) => (

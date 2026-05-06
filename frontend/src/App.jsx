@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 import { BookOpen, Zap, Download, RotateCcw } from 'lucide-react'
-import ExamConfig from './components/ExamConfig'
+import ExamConfig from './components/TEMP'
 import UploadPanel from './components/UploadPanel'
 import ResultsView from './components/ResultsView'
 
